@@ -23,7 +23,10 @@
 /arr_str-insert-operation
 /arr_naive-pattern-searching
 /arr_naive-pattern-searching
-/ll_create
-/stk_fact
-/stk_inf-to-pos
-/stk_evaluate-postfix-exp
+linked_list/ll_create
+Stack/stk_fibo
+Stack/stk_inf-to-pos
+Stack/stk_evaluate-postfix-exp
+Stack/stk_inf-to-pos
+Stack/stk_usingarr
+Stack/stk_fibo
