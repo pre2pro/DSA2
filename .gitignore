@@ -30,3 +30,5 @@ Stack/stk_evaluate-postfix-exp
 Stack/stk_inf-to-pos
 Stack/stk_usingarr
 Stack/stk_fibo
+linked_list/ll_operations
+linked_list/ll_advoperations
